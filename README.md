@@ -1,4 +1,4 @@
-# Order-Summary-Componet
+# Order-Summary-Component
 Frontend Mentor challenge
 
 Screenshot
